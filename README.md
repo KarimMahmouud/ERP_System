@@ -1,6 +1,6 @@
-# erp
+# ERP_System
 
-A new Flutter project.
+A program under construction to manage pasta factories in conjunction with the web program
 
 ## Getting Started
 
