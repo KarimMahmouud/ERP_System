@@ -5,6 +5,8 @@ Built using Flutter and Dart for the frontend, with a Laravel API backend and My
 
 ---
 
+![Cover](Login.png)
+
 ## Features
 
 - Real-time data updates and notifications  
