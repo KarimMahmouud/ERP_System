@@ -21,6 +21,10 @@ Built using Flutter and Dart for the frontend, with a Laravel API backend and My
 ![Login](Login.png)  
 A simple login page where users authenticate with their credentials.
 
+### 👥 Employee Registration
+![Employee Registration](Employee_registration.png)  
+This page allows for the registration of new employees and managing their access to the ERP system.
+
 ### 📊 Reports Page
 ![Reports](Reports.png)  
 Displays company reports.
