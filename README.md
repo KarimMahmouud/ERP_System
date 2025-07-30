@@ -17,22 +17,22 @@ Built using Flutter and Dart for the frontend, with a Laravel API backend and My
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](Account_access.png)
+![Login](Login.png)
 
 ### 📊 Reports Page
 ![Reports](assets/screenshots/Reports.png)
 
-### 🏭 Daily Production Page
-![Production](assets/screenshots/Details of daily production.png)
+### 🏭 Daily Production
+![Production](assets/screenshots/Details_of_daily_production.png)
 
-### 📆 Events Calendar
+### 📆 Events
 ![Calendar](assets/screenshots/Events.png)
 
-### 🔔 Notifications Page
+### 🔔 Notifications
 ![Notifications](assets/screenshots/Notifications.png)
 
-### 👷 Add Worker Page
-![Add Worker](assets/screenshots/Account access.png)
+### 👷 Account access
+![Add Worker](Account_access.png)
 
 ---
 
