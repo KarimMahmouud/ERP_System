@@ -1,4 +1,4 @@
-# ERP System
+# ERP System – Mobile Companion for Pasta Factory Management
 
 A mobile ERP companion app for managing pasta factory operations efficiently.  
 Built using Flutter and Dart for the frontend, with a Laravel API backend and MySQL database.
@@ -15,26 +15,31 @@ Built using Flutter and Dart for the frontend, with a Laravel API backend and My
 
 ---
 
-
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](Login.png)
+![Login](Login.png)  
+A simple login page where users authenticate with their credentials.
 
 ### 📊 Reports Page
-![Reports](Reports.png)
+![Reports](Reports.png)  
+Displays company reports for performance analysis.
 
 ### 🏭 Daily Production
-![Production](Details_of_daily_production.png)
+![Production](Details_of_daily_production.png)  
+Track daily production levels for different products in the factory.
 
 ### 📆 Events
-![Calendar](Events.png)
+![Calendar](Events.png)  
+View scheduled events and tasks via an integrated calendar.
 
 ### 🔔 Notifications
-![Notifications](Notifications.png)
+![Notifications](Notifications.png)  
+Real-time notifications for reports and task updates.
 
 ### 👷 Account access
-![Add Worker](Account_access.png)
+![Add Worker](Account_access.png)  
+Register new employees and manage their access to the ERP system.
 
 ---
 
