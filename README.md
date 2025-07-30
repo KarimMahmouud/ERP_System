@@ -14,6 +14,27 @@ Built using Flutter and Dart for the frontend, with a Laravel API backend and My
 - Secure login and role-based access  
 
 ---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](assets/screenshots/Login.png)
+
+### 📊 Reports Page
+![Reports](assets/screenshots/Reports.png)
+
+### 🏭 Daily Production Page
+![Production](assets/screenshots/Details of daily production.png)
+
+### 📆 Events Calendar
+![Calendar](assets/screenshots/Events.png)
+
+### 🔔 Notifications Page
+![Notifications](assets/screenshots/Notifications.png)
+
+### 👷 Add Worker Page
+![Add Worker](assets/screenshots/Account access.png)
+
+---
 
 ## Tech Stack
 
