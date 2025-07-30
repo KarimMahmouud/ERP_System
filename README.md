@@ -23,7 +23,7 @@ A simple login page where users authenticate with their credentials.
 
 ### 📊 Reports Page
 ![Reports](Reports.png)  
-Displays company reports for performance analysis.
+Displays company reports.
 
 ### 🏭 Daily Production
 ![Production](Details_of_daily_production.png)  
