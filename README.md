@@ -20,16 +20,16 @@ Built using Flutter and Dart for the frontend, with a Laravel API backend and My
 ![Login](Login.png)
 
 ### 📊 Reports Page
-![Reports](assets/screenshots/Reports.png)
+![Reports](Reports.png)
 
 ### 🏭 Daily Production
-![Production](assets/screenshots/Details_of_daily_production.png)
+![Production](Details_of_daily_production.png)
 
 ### 📆 Events
-![Calendar](assets/screenshots/Events.png)
+![Calendar](Events.png)
 
 ### 🔔 Notifications
-![Notifications](assets/screenshots/Notifications.png)
+![Notifications](Notifications.png)
 
 ### 👷 Account access
 ![Add Worker](Account_access.png)
